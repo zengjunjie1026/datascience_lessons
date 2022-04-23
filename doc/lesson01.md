@@ -2,7 +2,13 @@
 
 熟悉描述下性统计基本概念
 
+下载文件 !wget https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip
+
+
 pandas 基本读写文件
+pd.read_csv()
+
+
 numpy 的基本语法
 zipfile的解压
 
