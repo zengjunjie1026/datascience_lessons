@@ -7,11 +7,16 @@ numpy 的基本语法
 zipfile的解压
 
 一般描述性统计：
-均值 mean
-方差 variance
-标准差 std standard deviation
-丰度 skewness
+均值 mean  sum(all variables) / count(all variables)
+方差 variance sum(variable - mean) / count(all variables)
+标准差 std standard deviation variance^1/2
+丰度 skewness 
 偏度 kurtosis
 四分位点 quantiles
 
  R_{ij} = \frac{ C_{ij} } { \sqrt{ C_{ii} * C_{jj} } }
+
+ pmf
+累计概率分布
+ pdf
+概率密度分布
